@@ -1,19 +1,8 @@
-#!/usr/bin/env python
-# coding: utf-8
-
-# In[2]:
-
-
 import os
 import re
 import html
-from tqdm import tqdm
 import numpy as np 
 import pandas as pd
-
-
-# In[2]:
-
 
 def scrape_watch_history_html(
     path = os.path.join('Takeout', 'YouTube and YouTube Music', 'history', 'watch-history.html')
@@ -87,10 +76,6 @@ def scrape_watch_history_html(
     
     print('Youtube_history.csv is ready!') 
 
-
-# In[6]:
-
-
 while True:
     try: 
         scrape_watch_history_html()
@@ -99,4 +84,3 @@ while True:
     else:
         break
         exit()
-
