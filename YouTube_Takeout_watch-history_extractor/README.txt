@@ -14,5 +14,6 @@ STEPS:
 3. Drag the .exe file to the same directory as the Takeout folder (not inside)
 4. Run the .exe
 5. Youtube_history.csv will appear in this directory.
+6. Note that the .csv is TAB seperated.
 
 Alternatively, the code is also provided.
