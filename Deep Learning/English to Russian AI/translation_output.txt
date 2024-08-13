@@ -1,0 +1,150 @@
+Original: Tom told Mary he needed her help.
+Decoded: [start] Том сказал Мэри что ему нужна её помощь [end]
+
+Original: Do you like opera?
+Decoded: [start] Ты любишь оперу? [end]
+
+Original: We adopted a baby.
+Decoded: [start] Мы усыновили ребёнка [end]
+
+Original: Could you talk a little slower?
+Decoded: [start] Ты не могла бы говорить немного помедленнее? [end]
+
+Original: I don't think I'll be able to eat all this.
+Decoded: [start] Не думаю что смогу это всё съесть [end]
+
+Original: The police are going to catch you sooner or later.
+Decoded: [start] Полиция рано или поздно тебя поймает [end]
+
+Original: Tom was aware that Mary was married.
+Decoded: [start] Том был в курсе что Мэри замужем [end]
+
+Original: Tom makes about fifty phone calls a day.
+Decoded: [start] Том делает пять звонков телефона [end]
+
+Original: I don't want to talk about it right now.
+Decoded: [start] Я не хочу сейчас об этом говорить [end]
+
+Original: Please don't do anything else.
+Decoded: [start] Пожалуйста не делай ничего ещё [end]
+
+Original: Tom wants to go with us.
+Decoded: [start] Том хочет пойти с нами [end]
+
+Original: I really don't know what to say.
+Decoded: [start] Я правда не знаю что сказать [end]
+
+Original: You need me.
+Decoded: [start] Я вам нужен [end]
+
+Original: Tom likes Mary.
+Decoded: [start] Тому нравится Мэри [end]
+
+Original: Everyone is scared.
+Decoded: [start] Все напуганы [end]
+
+Original: It's getting dark.
+Decoded: [start] Темнеет [end]
+
+Original: We made a huge mistake.
+Decoded: [start] Мы совершили огромную ошибку [end]
+
+Original: I work better alone than in a group.
+Decoded: [start] Я лучше в одиночку скучаю по группе [end]
+
+Original: Tom is an excellent cook.
+Decoded: [start] Том отличный повар [end]
+
+Original: Let's go away.
+Decoded: [start] Давай уйдём [end]
+
+Original: John took a key from his pocket.
+Decoded: [start] Том достал из кармана ключ [end]
+
+Original: You must study French.
+Decoded: [start] Ты должен учить французский [end]
+
+Original: Whenever someone knocks on the door, my dog starts barking.
+Decoded: [start] Каждый когда ктонибудь стучит в дверь моя собака начинает лаять [end]
+
+Original: There's time.
+Decoded: [start] Время есть [end]
+
+Original: I don't think you'll have the same problems I had.
+Decoded: [start] Не думаю что у тебя будут думать те проблемы что у меня были [end]
+
+Original: How many times have you done this?
+Decoded: [start] Сколько раз ты это сделал? [end]
+
+Original: You may use mine if you want.
+Decoded: [start] Можешь взять мой если хочешь [end]
+
+Original: She is wearing a white dress today.
+Decoded: [start] Она сегодня в белом платье [end]
+
+Original: Don't say bad things about others.
+Decoded: [start] Не говори о других плохо [end]
+
+Original: Who gave you permission to do that?
+Decoded: [start] Кто дал тебе разрешение сделать это? [end]
+
+Original: I'm not suggesting you go alone.
+Decoded: [start] Я не предлагаю тебе ехать одному [end]
+
+Original: Why does Tom need a hammer?
+Decoded: [start] Зачем Тому молоток? [end]
+
+Original: Have you ever been to Japan?
+Decoded: [start] Ты когданибудь был в Японии? [end]
+
+Original: I had to go there.
+Decoded: [start] Мне надо было туда пойти [end]
+
+Original: His mother was a singer.
+Decoded: [start] Его мать была певицей [end]
+
+Original: It is ten degrees below zero now.
+Decoded: [start] Сейчас десять градусов ниже нуля [end]
+
+Original: I locked myself out.
+Decoded: [start] Я запер дверь оставив ключи внутри [end]
+
+Original: I couldn't sleep either.
+Decoded: [start] Я тоже не мог уснуть [end]
+
+Original: We're both students.
+Decoded: [start] Мы оба студенты [end]
+
+Original: Why did you cry?
+Decoded: [start] Почему ты плакал? [end]
+
+Original: Tom certainly wasn't ready for it.
+Decoded: [start] Том определённо не был к этому готов [end]
+
+Original: I can answer your questions.
+Decoded: [start] Я могу ответить на твои вопросы [end]
+
+Original: He thinks that I am in love with her.
+Decoded: [start] Он думает что я люблю её [end]
+
+Original: Let me think about it.
+Decoded: [start] Дайте мне об этом подумать [end]
+
+Original: Didn't you know Tom had a house on Park Street?
+Decoded: [start] Ты не знал что у Тома дом на Парковой улице? [end]
+
+Original: Tom is a judge.
+Decoded: [start] Том Судья [end]
+
+Original: Tom told me the whole story.
+Decoded: [start] Том рассказал мне всю историю [end]
+
+Original: I made up my mind to go there.
+Decoded: [start] Я решил пойти туда [end]
+
+Original: Tom has no authority to do that.
+Decoded: [start] У Тома нет полномочий чтобы это сделать [end]
+
+Original: Tom doesn't use Facebook.
+Decoded: [start] Том не пользуется Фейсбуком [end]
+
